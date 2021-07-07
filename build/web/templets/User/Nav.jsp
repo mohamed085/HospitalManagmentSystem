@@ -64,7 +64,7 @@
                             </ul>
                         </div>
                     </div>
-                </div>
+                </div>  
                 <!--FORM SEARCH-->
                 <div class="uni-form-search-header">
                     <div class="box-search-header collapse" id="box-search-header">
